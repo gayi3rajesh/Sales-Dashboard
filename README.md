@@ -20,6 +20,9 @@ It includes information such as:
 3.	Which product categories generate the highest sales and profit?
 4.	What are the top cities by sales revenue?
 5.	Which cities contribute the most to overall profit?
+
+- <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dashboard.png">DashBoard</a>
+
 # KPIs & Insights
 •	Sales by Country: A breakdown of total sales for each country.
 •	Total Sales by City: Highlights the contribution of different cities to overall sales.
