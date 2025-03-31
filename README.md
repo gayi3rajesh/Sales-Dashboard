@@ -25,5 +25,5 @@ The dataset used in this project consists of sales transactions for an office su
 •	Top Cities by Profit: Identifies the most profitable cities.
 # Tools Used
 •	Power BI for data visualization and dashboard creation.
-•	SQL for data extraction and transformation (if applicable).
+
 •	Excel/CSV as the source file for data.
