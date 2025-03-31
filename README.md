@@ -4,8 +4,6 @@ This project is a Power BI Sales Dashboard designed for an office supplies and s
 # Objective
 The objective of this project is to visualize and analyze the sales performance of an office supplies company using Power BI. The dashboard focuses on key metrics that provide insights into sales distribution, profitability, and top-performing locations.
 
-- <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dataset.xlsx">Dataset</a>
-
 # Dataset
 The dataset used in this project consists of sales transactions for an office supplies company.
 - <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dataset.xlsx">Dataset</a>
