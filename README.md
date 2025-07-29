@@ -22,6 +22,7 @@ It includes information such as:
 5.	Which cities contribute the most to overall profits?
 
 - <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dashboard.png">DashBoard</a>
+
 <img width="608" height="338" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1df447de-0954-4580-bdc7-8871292cf24a" />
 
 # KPIs & Insights
