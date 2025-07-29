@@ -23,6 +23,7 @@ It includes information such as:
 
 - <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dashboard.png">DashBoard</a>
 <img width="735" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/b04b78a4-c4f2-4a5e-b06a-cf446a25ed20" />
+<img width="608" height="338" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1df447de-0954-4580-bdc7-8871292cf24a" />
 
 # KPIs & Insights
 •	Sales by Country: A breakdown of total sales for each country.
