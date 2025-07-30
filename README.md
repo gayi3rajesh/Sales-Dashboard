@@ -27,6 +27,7 @@ It includes information such as:
 
 # KPIs & Insights
 •	Sales by Country: A breakdown of total sales for each country.
+
 •	Total Sales by City: Highlights the contribution of different cities to overall sales.
 •	Sales & Profit by Category: Identifies which product categories drive the most revenue and profitability.
 •	Top Cities by Sales: Lists the cities with the highest sales figures.
