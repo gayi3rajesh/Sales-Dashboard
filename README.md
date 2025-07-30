@@ -7,7 +7,7 @@ The objective of this project is to visualize and analyze the sales performance 
 # Dataset
 The dataset used in this project consists of sales transactions for an office supplies company.
 - <a href="https://github.com/gayi3rajesh/Sales-Dashboard/blob/main/Sales%20Dataset.xlsx">Dataset</a>
-It includes information such as:
+- It includes information such as:
 
 - Order Date  
 - Sales Amount  
