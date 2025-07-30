@@ -27,11 +27,11 @@ It includes information such as:
 <img width="608" height="338" alt="Sales Dashboard" src="https://github.com/user-attachments/assets/1df447de-0954-4580-bdc7-8871292cf24a" />
 
 # KPIs & Insights
--	Sales by Country: A breakdown of total sales for each country.
--	Total Sales by City: Highlights the contribution of different cities to overall sales.
-- Sales & Profit by Category: Identifies which product categories drive the most revenue and profitability.
--	Top Cities by Sales: Lists the cities with the highest sales figures.
--	Top Cities by Profit: Identifies the most profitable cities.
+- **Sales by Country**: A breakdown of total sales for each country.  
+- **Total Sales by City**: Highlights the contribution of different cities to overall sales.  
+- **Sales & Profit by Category**: Identifies which product categories drive the most revenue and profitability.  
+- **Top Cities by Sales**: Lists the cities with the highest sales figures.  
+- **Top Cities by Profit**: Identifies the most profitable cities.
 # Tools Used
 •	Power BI for data visualization and dashboard creation.
 
